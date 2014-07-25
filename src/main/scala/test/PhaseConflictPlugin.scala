@@ -23,7 +23,7 @@ class PhaseConflictPlugin(val global: Global) extends Plugin {
     
     val runsAfter = List[String]("parser")
     override val runsBefore = List[String]("typer")
-    override val runsRightAfter = Some("parser")
+    // override val runsRightAfter = Some("parser")
     
     val phaseName = plugin.name
     override val description = plugin.description
