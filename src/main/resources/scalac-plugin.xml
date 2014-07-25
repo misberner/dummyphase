@@ -1,0 +1,4 @@
+<plugin>
+	<name>phaseConflict</name>
+	<classname>test.PhaseConflictPlugin</classname>
+</plugin>
