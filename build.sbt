@@ -1,6 +1,6 @@
-organization := "com.github.misberner.scala.test"
+organization := "dummyphase"
 
-name := "phaseConflict"
+name := "dummyphase"
 
 version := "0.1-SNAPSHOT"
 

@@ -1,4 +1,4 @@
 <plugin>
-	<name>phaseConflict</name>
-	<classname>test.PhaseConflictPlugin</classname>
+	<name>dummyphase</name>
+	<classname>dummyphase.DummyPhasePlugin</classname>
 </plugin>
